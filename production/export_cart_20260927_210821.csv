@@ -1,0 +1,28 @@
+﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,C49678,CC0805KRX7R9BB104,YAGEO,0805,,100nF ±10% 50V Ceramic Capacitor X7R 0805,yes,20,20,20,0.0192,0.38,https://www.lcsc.com/product-detail/C49678.html
+2,C780219,3314G-1-104E,BOURNS,"SMD-3P,4.5x4.5mm",,"±20% ±100ppm/℃ 250mW 100kΩ SMD-3P,4.5x4.5mm Trimmer Potentiometers RoHS",yes,4,1,1,0.5671,2.27,https://www.lcsc.com/product-detail/C780219.html
+3,C48084,3296W-1-104LF,BOURNS,"SIP-3P,9.5x4.8mm",,"100kΩ ±10% 500mW SIP-3P,9.5x4.8mm Potentiometers, Variable Resistors",yes,8,1,1,0.7754,6.20,https://www.lcsc.com/product-detail/C48084.html
+4,C350559,SN74HC02DR,TI,SOIC-14,,"2uA 2V~6V 15ns@6V,50pF SOIC-14 Gates and Inverters RoHS",yes,5,5,5,0.2164,1.08,https://www.lcsc.com/product-detail/C350559.html
+5,C7932,LM2901DR,TI,SOIC-14,,"Four channels 800uA 2mV Rail-to-Rail Input, Rail-to-Rail Output SOIC-14 Comparators RoHS",yes,5,5,5,0.2003,1.00,https://www.lcsc.com/product-detail/C7932.html
+6,C7512,ULN2003ADR,TI,SOIC-16,,50V Seven channels BJT 500mA SOIC-16 Bipolar Transistor Arrays RoHS,yes,5,5,5,0.1547,0.77,https://www.lcsc.com/product-detail/C7512.html
+7,C10090,SN74HC00DR,TI,SOIC-14,,"2uA 2V~6V 15ns@6V,50pF SOIC-14 Gates and Inverters RoHS",yes,5,5,5,0.1262,0.63,https://www.lcsc.com/product-detail/C10090.html
+8,C5277086,RH-5000,ronghe,-,,Test Points RoHS,yes,15,5,5,0.0803,1.20,https://www.lcsc.com/product-detail/C5277086.html
+9,C2933797,FRC1206J913 TS,FOJAN,1206,,91kΩ ±5% 250mW 1206 Thick Film Resistor,yes,100,100,100,0.0048,0.48,https://www.lcsc.com/product-detail/C2933797.html
+10,C2933721,FRC1206F5101TS,FOJAN,1206,,5.1kΩ ±1% 250mW 1206 Thick Film Resistor,yes,100,100,100,0.0063,0.63,https://www.lcsc.com/product-detail/C2933721.html
+11,C872103,RT1206DRE071ML,YAGEO,1206,,250mW 1MΩ Thin Film Resistor ±50ppm/℃ ±0.5% 1206 Chip Resistor - Surface Mount RoHS,yes,20,20,20,0.0245,0.49,https://www.lcsc.com/product-detail/C872103.html
+12,C17414,0805W8F1002T5E,UNI-ROYAL,0805,,10kΩ ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0039,0.39,https://www.lcsc.com/product-detail/C17414.html
+13,C4410,1206W4F1001T5E,UNI-ROYAL,1206,,1kΩ ±1% 250mW 1206 Thick Film Resistor,yes,50,50,50,0.0080,0.40,https://www.lcsc.com/product-detail/C4410.html
+14,C17713,0805W8F4702T5E,UNI-ROYAL,0805,,47kΩ ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0064,0.64,https://www.lcsc.com/product-detail/C17713.html
+15,C7578,MC74HC08ADR2G,onsemi,SOIC-14,,"StandardCMOS 2V~6V 19ns@6V,50pF 1uA SOIC-14 Gates and Inverters RoHS",yes,5,5,5,0.2456,1.23,https://www.lcsc.com/product-detail/C7578.html
+16,C113327,CBW321609U102T,FH,1206,,1kΩ@100MHz 1 Line Ferrite Bead 1206 2A 300mΩ,yes,20,20,20,0.0384,0.77,https://www.lcsc.com/product-detail/C113327.html
+17,C7542972,1812L110/33GR,LUTE,1812,,Polymeric PTC Resettable Fuse 33V 1.1A Surface Mount 1812,yes,5,5,5,0.0450,0.23,https://www.lcsc.com/product-detail/C7542972.html
+18,C52023798,1N5822,HANGYU MICROELECTRONICS,DO-201AD,,"40V 1 Independent 525mV@3A 3A DO-201AD Single Diodes ",yes,10,10,10,0.0590,0.59,https://www.lcsc.com/product-detail/C52023798.html
+19,C598294,KP-3216MGC,Kingbright,1206,,Green 574nm LED Indication - Discrete 2.5V 1206,yes,15,5,5,0.3730,5.60,https://www.lcsc.com/product-detail/C598294.html
+20,C315569,1N5817,JSCJ,DO-41,,"DO-41 Global Source ",yes,20,20,20,0.0417,0.83,https://www.lcsc.com/product-detail/C315569.html
+21,C598298,KP-3216SURC,Kingbright,1206,,645nm 230mcd 140° 20mA Red 3.2mm x 1.6mm square LED 1.95V 630nm 1206 LED Indication - Discrete RoHS,yes,5,5,5,0.1508,0.75,https://www.lcsc.com/product-detail/C598298.html
+22,C80394,P6SMB18A,Littelfuse,DO-214AA,,25.5VC Clamp 24.2A Ipp TVS DIODE DO-214AA,yes,5,5,5,0.1520,0.76,https://www.lcsc.com/product-detail/C80394.html
+23,C15850,CL21A106KAYNNNE,Samsung Electro-Mechanics,0805,,10uF ±10% 25V Ceramic Capacitor X5R 0805,yes,20,20,20,0.0798,1.60,https://www.lcsc.com/product-detail/C15850.html
+24,C72477,RVT1E101M0607,ROQANG,"SMD,D6.3xL7.7mm",,100uF ±20% 25V Aluminum Electrolytic Capacitors 2000hrs@105℃,yes,20,20,20,0.0283,0.57,https://www.lcsc.com/product-detail/C72477.html
+25,C145592,MCP6547T-E/MS,MICROCHIP,MSOP-8-2.8mm,,2 600nA 1.5mV Rail-to-rail input MSOP-8-2.8mm Comparators RoHS,yes,6,1,1,1.2485,7.49,https://www.lcsc.com/product-detail/C145592.html
+26,C5769816,MMFTN3404A-AQ,DIOTEC,SOT-23-3(TO-236),,"1.25W 30V 5.6A 23mΩ@10V 1 N-channel N-Channel SOT-23-3(TO-236) Single FETs, MOSFETs ",-,8,1,1,0.4315,3.45,https://www.lcsc.com/product-detail/C5769816.html
+27,C728669,RT1206BRD07100KL,YAGEO,1206,,100kΩ 250mW 200V Thin Film Resistor ±25ppm/℃ ±0.1% 1206 Chip Resistor - Surface Mount RoHS,yes,20,10,10,0.0757,1.51,https://www.lcsc.com/product-detail/C728669.html

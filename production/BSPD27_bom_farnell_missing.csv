@@ -1,0 +1,4 @@
+Designator,Footprint,Quantity,Value,MPN,Farnell Part #
+Q4,SOT-23,1,MMFTP3401 P-ch MOSFET (non-AQ; -AQ is DigiKey-only),MMFTP3401,4710426
+K1,MCCMA51-S-DC12V-C,1,Relay 12V coil SPDT,MCCMA51-S-DC12V-C,2008759
+PS1,Converter_DCDC_RECOM_R-78E-0.5_THT,1,5V 1A switching reg,R-78E5.0-1.0,2760747
