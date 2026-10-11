@@ -1,0 +1,5 @@
+/BSPD-27-backups
+*.kicad_prl
+*.net
+.DS_Store
+
